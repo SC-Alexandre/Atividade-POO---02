@@ -1,6 +1,6 @@
 package exercicio05;
 
-public class MainPagamento {
+public class TestePagamento {
 
     public static void main(String[] args) {
         Pagamento pagamento = new PagamentoBoleto(1500);

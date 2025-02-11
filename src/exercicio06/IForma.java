@@ -1,5 +1,5 @@
 package exercicio06;
 
 public interface IForma {
-    public void calularArea();
+    public abstract double calcularArea();
 }
